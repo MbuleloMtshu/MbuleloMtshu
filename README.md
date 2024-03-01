@@ -5,13 +5,12 @@
 - <b>My First Java Project (Eduvos.2022)</b>
   - [Practicing Multiplication in Java](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
 - <b>Data Structures and Algorithms Practice (Eduvos.2023)</b>
-  - [Practicing DB Algirthms](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing DB Algirthms](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
 
 <h2>📄Certifications:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure)</b>
-  - [Practicing Webpage](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
+  - [Practicing Webpage](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
