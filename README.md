@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>My First Java Project (Eduvos.2022)</b>
-  - [Practicing Multiplication in Java](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Multiplication in Java](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
 - <b>Data Structures and Algorithms Practice (Eduvos.2023)</b>
   - [Practicing DB Algirthms](https://github.com/joshmadakor1/Algorithms-Practice)
 
