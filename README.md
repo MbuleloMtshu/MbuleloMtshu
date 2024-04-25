@@ -20,7 +20,6 @@
 
 - [Budget Hacks that students should know](https://youtu.be/0LQsIUBLE1o)
 - [Ways to Study and Tackle the learning Haze](https://youtu.be/dV_x9uYXWGU)
-- [Knowing the Departments of South Africa](https://youtu.be/zgQ3TDoQC0Y)
 
 <h2> 🤳 Connect with me:</h2>
 
