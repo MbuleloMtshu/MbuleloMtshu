@@ -7,6 +7,9 @@
 
 - <b>My First Sample Web design (World Link Consulting)</b>
   - [Demo Website using Cpanel/Back-end programming](https://hymalayafreight.co.za/)
+
+- <b>Most Recent Project[2025](Web Commerce and Software development)</b>
+  - [Demo Website using Javascript & Html](https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
   
 - <b>Data Structures and Algorithms Practice (Eduvos.2023)</b>
   - [Practicing DB Algirthms](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
