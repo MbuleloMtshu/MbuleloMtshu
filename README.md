@@ -17,12 +17,12 @@
 <h2>📄Certifications:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure)</b>
-  - [Practicing Webpage](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md) 
+  - [Practicing Webpage](Coming soon) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Budget Hacks that students should know](https://youtu.be/0LQsIUBLE1o)
-- [Ways to Study and Tackle the learning Haze](https://youtu.be/dV_x9uYXWGU)
+- [STOP Missing Out on Discovery Bank & its Perks – What You Must Know!](https://youtu.be/dbb2EW5E2lo)
+- [Public vs. Private University: Which Is Better In South Africa?](https://youtu.be/jcrqRKezmZ8)
 
 <h2> 🤳 Connect with me:</h2>
 
