@@ -12,7 +12,7 @@
   - [Demo Website using Javascript & Html](https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
   
 - <b>Data Structures and Algorithms Practice (Eduvos.2023)</b>
-  - [Practicing DB Algirthms](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
+  - [Practicing DB Algorithms](project coming soon)
 
 <h2>📄Certifications:</h2>
 
