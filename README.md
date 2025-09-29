@@ -1,4 +1,4 @@
-<h1>Hello, my name is Mbulelo! <br/><a href="https://github.com/MbuleloMtshu">Programmer</a>, <a href="www.linkedin.com/in/mbulelo-mtshutshisi-6024451a8">Software Engineer</a>
+<h1>Hello, my name is Mbulelo! <br/><a href="https://github.com/MbuleloMtshu">Java </a>, <a href="www.linkedin.com/in/mbulelo-mtshutshisi-6024451a8">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
