@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>My First Java Project (Eduvos.2022)</b>
-  - [Practicing Multiplication in Java](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
+  - [Java Enterprise Chat Application](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
 
 - <b>My First Sample Web design (World Link Consulting)</b>
   - [Demo Website using Cpanel/Back-end programming](https://hymalayafreight.co.za/)
