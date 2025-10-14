@@ -16,7 +16,7 @@
   <br>
 
   <li>
-    <b>World Link Consulting Website</b> — 
+    <b>"World Link Consulting" Client Website</b> — 
     <a href="https://hymalayafreight.co.za/" target="_blank">
       Business Web Design Demo
     </a><br>
