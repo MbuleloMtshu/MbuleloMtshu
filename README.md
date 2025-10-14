@@ -33,25 +33,42 @@
   </li>
 </ul>
 
-<h2>⚙️ Tech Stack</h2>
+<h2>⚙️ Tech Stack & Technical Skills</h2>
 <p>
-I work with a range of technologies across front-end, back-end, and cloud development to build efficient, modern web solutions.
+A summary of my core technical skills across web design, software development, cloud computing, and cybersecurity. 
+These tools and technologies support my ability to build, secure, and optimize digital solutions effectively.
 </p>
 
-<ul>
-  <li><b>Languages:</b> Java, JavaScript, PHP, HTML5, CSS3</li>
-  <li><b>Frameworks & Tools:</b> WordPress, Node.js (basic), Bootstrap, jQuery</li>
-  <li><b>Databases:</b> MySQL, SQLite</li>
-  <li><b>Cloud & Hosting:</b> AWS (S3), cPanel, GitHub Pages</li>
-  <li><b>Other Skills:</b> SEO Optimization, Google Business Profile Setup, Digital Marketing</li>
-</ul>
-
-
-<h2>📺 Creative & Finance Content</h2>
-<p>
-Outside of coding, I run a <b>personal finance YouTube channel</b> where I simplify banking, savings, and money management for young South Africans.
-This passion project enhances my communication, client engagement, and digital marketing skills — reflecting consistency, project execution, and strong project management.
-</p>
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width:100%;">
+  <thead style="background-color:#f2f2f2;">
+    <tr>
+      <th>Category</th>
+      <th>Skills & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Web Design & Development</b></td>
+      <td>HTML5, CSS3, JavaScript, PHP, WordPress (Plugins & WooCommerce), CPanel, Bootstrap, jQuery, Figma, Adobe Creative Suite</td>
+    </tr>
+    <tr>
+      <td><b>Software Development</b></td>
+      <td>Java, C#, Visual Basic, Implementation of Enterprise Systems, Business Intelligence (BI) & Analysis</td>
+    </tr>
+    <tr>
+      <td><b>Cloud Computing</b></td>
+      <td>AWS (Amazon Web Services), Microsoft Azure, AWS S3 Deployment, Cloud Integration & Hosting</td>
+    </tr>
+    <tr>
+      <td><b>Cybersecurity</b></td>
+      <td>Penetration Testing, CompTIA Security+, Basic Network Security Principles</td>
+    </tr>
+    <tr>
+      <td><b>Digital Marketing & SEO</b></td>
+      <td>SEO Optimization, Google Business Profile Setup, Digital Marketing Strategy, Analytics</td>
+    </tr>
+  </tbody>
+</table>
 
 <ul>
   <li>
