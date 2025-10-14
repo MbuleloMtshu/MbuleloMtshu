@@ -1,24 +1,55 @@
 <h1>Hello, my name is Mbulelo! <br/>
-<a href="www.linkedin.com/in mbulelo-mtshutshisi-6024451a8">Software Engineer</a>,
-<a href="https://github.com/MbuleloMtshu">Java </a>,
+<a href="www.linkedin.com/in mbulelo-mtshutshisi-6024451a8">Software Engineer</a> |
+<a href="https://github.com/MbuleloMtshu"> Java </a> |
 <a href="https://github.com/MbuleloMtshu">Web & Cloud Services</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 
-- <b>Java Enterprise Chat Application: [Messaging System Prototype](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
+<ul>
+  <li>
+    <b>Java Enterprise Chat Application</b> — 
+    <a href="https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md" target="_blank">
+      Messaging System Prototype
+    </a><br>
+    <i>A Java-based enterprise chat system built to demonstrate real-time communication and solid backend architecture.</i>
+  </li>
+  <br>
 
-- <b>Website for World Link Consulting Client: [Business Web Design Demo](https://hymalayafreight.co.za/)
+  <li>
+    <b>World Link Consulting Website</b> — 
+    <a href="https://hymalayafreight.co.za/" target="_blank">
+      Business Web Design Demo
+    </a><br>
+    <i>Responsive web design and CPanel-based backend integration for a consulting company demo site.</i>
+  </li>
+  <br>
 
-- <b>Ecommerce Platform: [Web Commerce System For Local Company](https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
+  <li>
+    <b>Local Ecommerce Platform</b> — 
+    <a href="https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html" target="_blank">
+      Web Commerce System
+    </a><br>
+    <i>Custom-built eCommerce solution showcasing front-end design, product management, and local business functionality.</i>
+  </li>
+</ul>
 
 <h2>📺 Creative & Finance Content</h2>
 <p>
-Outside of coding, I run a personal finance channel that simplifies banking and money management for young South Africans — a project that strengthens my communication, client interaction, and digital marketing skills while demonstrating consistent project execution and commitment.
+Outside of coding, I run a <b>personal finance YouTube channel</b> where I simplify banking, savings, and money management for young South Africans.
+This passion project enhances my communication, client engagement, and digital marketing skills — reflecting consistency, project execution, and strong project management.
 </p>
 
 <ul>
-  <li><a href="https://youtu.be/dbb2EW5E2lo">STOP Missing Out on Discovery Bank & its Perks – What You Must Know!</a></li>
-  <li><a href="https://youtu.be/jcrqRKezmZ8">Public vs. Private University: Which Is Better In South Africa?</a></li>
+  <li>
+    <a href="https://youtu.be/dbb2EW5E2lo" target="_blank">
+      STOP Missing Out on Discovery Bank & its Perks – What You Must Know!
+    </a>
+  </li>
+  <li>
+    <a href="https://youtu.be/jcrqRKezmZ8" target="_blank">
+      Public vs. Private University: Which Is Better In South Africa?
+    </a>
+  </li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
