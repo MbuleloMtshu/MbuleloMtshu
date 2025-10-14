@@ -1,7 +1,7 @@
 <h1>Hello, my name is Mbulelo! <br/>
-<a href="www.linkedin.com/in mbulelo-mtshutshisi-6024451a8">Software Engineer</a> |
+|<a href="www.linkedin.com/in mbulelo-mtshutshisi-6024451a8">Software Engineer</a> |
 <a href="https://github.com/MbuleloMtshu"> Java </a> |
-<a href="https://github.com/MbuleloMtshu">Web & Cloud Services</a>
+<a href="https://github.com/MbuleloMtshu">Web & Cloud Services</a>|
 
 <h2>👨‍💻 Software Development Projects</h2>
 
@@ -32,6 +32,20 @@
     <i>Custom-built eCommerce solution showcasing front-end design, product management, and local business functionality.</i>
   </li>
 </ul>
+
+<h2>⚙️ Tech Stack</h2>
+<p>
+I work with a range of technologies across front-end, back-end, and cloud development to build efficient, modern web solutions.
+</p>
+
+<ul>
+  <li><b>Languages:</b> Java, JavaScript, PHP, HTML5, CSS3</li>
+  <li><b>Frameworks & Tools:</b> WordPress, Node.js (basic), Bootstrap, jQuery</li>
+  <li><b>Databases:</b> MySQL, SQLite</li>
+  <li><b>Cloud & Hosting:</b> AWS (S3), cPanel, GitHub Pages</li>
+  <li><b>Other Skills:</b> SEO Optimization, Google Business Profile Setup, Digital Marketing</li>
+</ul>
+
 
 <h2>📺 Creative & Finance Content</h2>
 <p>
