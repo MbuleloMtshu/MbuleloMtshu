@@ -16,6 +16,15 @@
   <br>
 
 <li>
+    <b>Job Finding Application For Contractors</b> — 
+    <a href="https://github.com/DMAether/WorkScout_Prot1.git"_blank">
+      Collaborative Team Exercise
+    </a><br>
+    <i>A Java-based mobile Application that connects skilled labourers with homeowners seeking home repair and maintenance services.</i>
+  </li>
+
+
+<li>
     <b>Bank Safety Check Application</b> — 
     <a href="https://github.com/MbuleloMtshu/BankSafetyCheckJava/blob/main/README.md" target="_blank">
       Bank Validation System
