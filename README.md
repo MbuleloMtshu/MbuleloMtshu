@@ -16,15 +16,6 @@
   <br>
 
 <li>
-    <b>Job Finding Application For Contractors</b> — 
-    <a href="https://github.com/DMAether/WorkScout_Prot1.git"_blank">
-      Collaborative Team Exercise
-    </a><br>
-    <i>A Java-based mobile Application that connects skilled labourers with homeowners seeking home repair and maintenance services.</i>
-  </li>
-
-
-<li>
     <b>Bank Safety Check Application</b> — 
     <a href="https://github.com/MbuleloMtshu/BankSafetyCheckJava/blob/main/README.md" target="_blank">
       Bank Validation System
@@ -32,7 +23,6 @@
     <i>Simulates a banking system to identify which banks are unsafe based on their total assets compared to a safety threshold.</i>
   </li>
   <br>
-
 
   <li>
     <b>"World Link Consulting" Client Website</b> — 
@@ -51,7 +41,15 @@
     <i>Custom-built eCommerce solution showcasing front-end design, product management, and local business functionality.</i>
   </li>
 </ul>
+<br>
 
+<li>
+    <b>Job Finding Application For Contractors</b> — 
+    <a href="https://github.com/DMAether/WorkScout_Prot1.git"_blank">
+      Collaborative Team Exercise
+    </a><br>
+    <i>A Java-based mobile Application that connects skilled labourers with homeowners seeking home repair and maintenance services.</i>
+  </li>
 <h2>⚙️ Tech Stack & Technical Skills</h2>
 <p>
 A summary of my core technical skills across web design, software development, cloud computing, and cybersecurity. 
