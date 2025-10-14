@@ -5,27 +5,27 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>My First Java Project (Eduvos)</b>
-  - [Java Enterprise Chat Application](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
+- <b>Java Enterprise Chat Application:</b>
+  - [Messaging System Prototype](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
 
-- <b>My First Sample Web design (World Link Consulting)</b>
+- <b>World Link Consulting Website </b>
+(Business Web Design Demo):</b>
   - [Demo Website using Cpanel/Back-end programming](https://hymalayafreight.co.za/)
 
-- <b>Most Recent Project[2025](Web Commerce and Software development)</b>
-  - [Demo Website using Javascript & Html](https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
-  
-- <b>Data Structures and Algorithms Practice (Eduvos.2023)</b>
-  - [Practicing DB Algorithms](project coming soon)
+- <b>Local Ecommerce Platform </b>
+(Web Commerce System)</b>
+[Ecommerce System For Local Company]</b>
+  - [Web Commerce and Software development](https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
 
-<h2>📄Certifications:</h2>
+<h2>📺 Creative & Finance Content</h2>
+<p>
+Outside of coding, I run a personal finance and lifestyle channel where I simplify banking, savings, and money management for young South Africans. This passion project helps me sharpen my communication, storytelling, and digital marketing skills — all of which complement my work in web development and design.
+</p>
 
-- <b>Full Stack Web App (React, NodeJS, Azure)</b>
-  - [Practicing Webpage](Coming soon) 
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [STOP Missing Out on Discovery Bank & its Perks – What You Must Know!](https://youtu.be/dbb2EW5E2lo)
-- [Public vs. Private University: Which Is Better In South Africa?](https://youtu.be/jcrqRKezmZ8)
+<ul>
+  <li><a href="https://youtu.be/dbb2EW5E2lo">STOP Missing Out on Discovery Bank & its Perks – What You Must Know!</a></li>
+  <li><a href="https://youtu.be/jcrqRKezmZ8">Public vs. Private University: Which Is Better In South Africa?</a></li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
