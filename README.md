@@ -70,6 +70,11 @@ These tools and technologies support my ability to build, secure, and optimize d
   </tbody>
 </table>
 
+<h2>📺 Creative & Finance Content</h2>
+<p>
+Outside of coding, I run a <b>personal finance YouTube channel</b> where I simplify banking, savings, and money management for young South Africans.
+This passion project enhances my communication, client engagement, and digital marketing skills — reflecting consistency, project execution, and strong project management.
+</p>
 <ul>
   <li>
     <a href="https://youtu.be/dbb2EW5E2lo" target="_blank">
