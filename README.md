@@ -15,10 +15,10 @@
   </li>
   <br>
 
-li>
+<li>
     <b>Bank Safety Check Application</b> — 
     <a href="https://github.com/MbuleloMtshu/BankSafetyCheckJava/blob/main/README.md" target="_blank">
-      Messaging System Prototype
+      Bank Validation System
     </a><br>
     <i>Simulates a banking system to identify which banks are unsafe based on their total assets compared to a safety threshold.</i>
   </li>
