@@ -11,8 +11,7 @@
 (Business Web Design Demo):[Demo Website using Cpanel/Back-end programming](https://hymalayafreight.co.za/)
 
 - <b>Local Ecommerce Platform </b>
-(Web Commerce System)</b>
-[Ecommerce System For Local Company]:(https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
+(Web Commerce System):[Ecommerce System For Local Company](https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
 
 <h2>📺 Creative & Finance Content</h2>
 <p>
