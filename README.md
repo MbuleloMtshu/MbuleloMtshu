@@ -15,6 +15,16 @@
   </li>
   <br>
 
+li>
+    <b>Bank Safety Check Application</b> — 
+    <a href="https://github.com/MbuleloMtshu/BankSafetyCheckJava/blob/main/README.md" target="_blank">
+      Messaging System Prototype
+    </a><br>
+    <i>Simulates a banking system to identify which banks are unsafe based on their total assets compared to a safety threshold.</i>
+  </li>
+  <br>
+
+
   <li>
     <b>"World Link Consulting" Client Website</b> — 
     <a href="https://hymalayafreight.co.za/" target="_blank">
