@@ -7,7 +7,7 @@
 
 - <b>Java Enterprise Chat Application: [Messaging System Prototype](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
 
-- <b>World Link Consulting Website: [Business Web Design Demo](https://hymalayafreight.co.za/)
+- <b>Website for World Link Consulting Client: [Business Web Design Demo](https://hymalayafreight.co.za/)
 
 - <b>Ecommerce Platform: [Web Commerce System For Local Company](https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
 
