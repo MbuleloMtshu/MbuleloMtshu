@@ -13,7 +13,8 @@
 
 <h2>📺 Creative & Finance Content</h2>
 <p>
-Outside of coding, I run a personal finance and lifestyle channel where I simplify banking, savings, and money management for young South Africans. This passion project helps me sharpen my communication, storytelling, and digital marketing skills — all of which complement my work in web development and design.
+Outside of coding, I run a personal finance channel where I simplify banking, savings, and money management for young South Africans. <br/>
+This passion project helps me sharpen my communication ability, I respond to comments which showcases my ability to handle the client, as well as digital marketing skills, all of which depict my ability to project execution and strong project commitment.
 </p>
 
 <ul>
