@@ -5,17 +5,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Java Enterprise Chat Application:</b>
-  - [Messaging System Prototype](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
+- <b>Java Enterprise Chat Application: [Messaging System Prototype](https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md)
 
 - <b>World Link Consulting Website </b>
-(Business Web Design Demo):</b>
-  - [Demo Website using Cpanel/Back-end programming](https://hymalayafreight.co.za/)
+(Business Web Design Demo):[Demo Website using Cpanel/Back-end programming](https://hymalayafreight.co.za/)
 
 - <b>Local Ecommerce Platform </b>
 (Web Commerce System)</b>
-[Ecommerce System For Local Company]</b>
-  - [Web Commerce and Software development](https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
+[Ecommerce System For Local Company]: [Web Commerce and Software development](https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html)
 
 <h2>📺 Creative & Finance Content</h2>
 <p>
