@@ -43,13 +43,6 @@
 </ul>
 <br>
 
-<li>
-    <b>Job Finding Application For Contractors</b> — 
-    <a href="https://github.com/DMAether/WorkScout_Prot1.git"_blank">
-      Collaborative Team Exercise
-    </a><br>
-    <i>A Java-based mobile Application that connects skilled labourers with homeowners seeking home repair and maintenance services.</i>
-  </li>
 <h2>⚙️ Tech Stack & Technical Skills</h2>
 <p>
 A summary of my core technical skills across web design, software development, cloud computing, and cybersecurity. 
