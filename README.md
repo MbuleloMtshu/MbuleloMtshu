@@ -8,32 +8,36 @@ I enjoy solving real technical problems through clean design, strong fundamental
 ---
 
 ## 👨‍💻 Software Development Projects
+---
+### **1. Local Ecommerce Platform — Web Commerce System**  
+**Tech:** HTML, CSS, JS, Bootstrap  
+A custom eCommerce demo including catalog pages and admin functionality.  
+🔗 **Live Demo:** https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html
 
-### **1. Java Enterprise Chat Application — Messaging System Prototype**  
+---
+### **2. Smart Budget Console App (Java) — Smart Budgeting Tool**  
+**Tech:** Java, OOP  
+This is a beginner-friendly financial management system built in pure Java to demonstrate strong fundamentals in backend logic, object-oriented programming, and clean system design. Typical use in the banking space.  
+🔗 **Repo:** README.md
+
+---
+### **3. Java Enterprise Chat Application — Messaging System Prototype**  
 **Tech:** Java, OOP  
 A Java-based enterprise communication system demonstrating backend design, message handling, and modular architecture.  
 🔗 **Repo:** https://github.com/MbuleloMtshu/java-enterprise-chatapp
 
 ---
 
-### **2. Bank Safety Check Application — Financial Validation System**  
-**Tech:** Java, Collections Framework  
-Simulates a banking system that evaluates safety using asset thresholds and rules-based logic.  
-🔗 **Repo:** https://github.com/MbuleloMtshu/BankSafetyCheckJava
-
----
-
-### **3. “World Link Consulting” Client Website — Business Web Design Demo**  
+### **4. “World Link Consulting” Client Website — Business Web Design Demo**  
 **Tech:** HTML, CSS, JS, PHP, CPanel  
 A responsive website with UI/UX design and backend integration.  
 🔗 **Live Demo:** https://hymalayafreight.co.za/
 
 ---
-
-### **4. Local Ecommerce Platform — Web Commerce System**  
-**Tech:** HTML, CSS, JS, Bootstrap  
-A custom eCommerce demo including catalog pages and admin functionality.  
-🔗 **Live Demo:** https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html
+### **5. Bank Safety Check Application — Financial Validation System**  
+**Tech:** Java, Collections Framework  
+Simulates a banking system that evaluates safety using asset thresholds and rules-based logic.  
+🔗 **Repo:** https://github.com/MbuleloMtshu/BankSafetyCheckJava
 
 ---
 
