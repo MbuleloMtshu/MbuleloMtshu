@@ -1,126 +1,84 @@
-<h1>Hello, my name is Mbulelo! <br/>
-|<a href="www.linkedin.com/in mbulelo-mtshutshisi-6024451a8">Software Engineer</a> |
-<a href="https://github.com/MbuleloMtshu"> Java </a> |
-<a href="https://github.com/MbuleloMtshu">Web & Cloud Services</a>|
+# 👋 Hello, I'm Mbulelo  
+### Software Engineer | Java Backend | Cloud Services
 
-<h2>👨‍💻 Software Development Projects</h2>
+I build backend systems and full-stack applications using Java, Spring principles, REST APIs, and cloud deployment.  
+I enjoy solving real technical problems through clean design, strong fundamentals, and continuous learning.
 
-<ul>
-  <li>
-    <b>Java Enterprise Chat Application</b> — 
-    <a href="https://github.com/MbuleloMtshu/ProductMultiply/blob/main/README.md" target="_blank">
-      Messaging System Prototype
-    </a><br>
-    <i>A Java-based enterprise chat system built to demonstrate real-time communication and solid backend architecture.</i>
-  </li>
-  <br>
 
-<li>
-    <b>Bank Safety Check Application</b> — 
-    <a href="https://github.com/MbuleloMtshu/BankSafetyCheckJava/blob/main/README.md" target="_blank">
-      Bank Validation System
-    </a><br>
-    <i>Simulates a banking system to identify which banks are unsafe based on their total assets compared to a safety threshold.</i>
-  </li>
-  <br>
+---
 
-  <li>
-    <b>"World Link Consulting" Client Website</b> — 
-    <a href="https://hymalayafreight.co.za/" target="_blank">
-      Business Web Design Demo
-    </a><br>
-    <i>Responsive web design and CPanel-based backend integration for a consulting company demo site.</i>
-  </li>
-  <br>
+## 👨‍💻 Software Development Projects
 
-  <li>
-    <b>Local Ecommerce Platform</b> — 
-    <a href="https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html" target="_blank">
-      Web Commerce System
-    </a><br>
-    <i>Custom-built eCommerce solution showcasing front-end design, product management, and local business functionality.</i>
-  </li>
-</ul>
-<br>
+### **1. Java Enterprise Chat Application — Messaging System Prototype**  
+**Tech:** Java, OOP  
+A Java-based enterprise communication system demonstrating backend design, message handling, and modular architecture.  
+🔗 **Repo:** https://github.com/MbuleloMtshu/EnterpriseChatApplication
 
-<h2>⚙️ Tech Stack & Technical Skills</h2>
-<p>
-A summary of my core technical skills across web design, software development, cloud computing, and cybersecurity. 
-These tools and technologies support my ability to build, secure, and optimize digital solutions effectively.
-</p>
+---
 
-<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width:100%;">
-  <thead style="background-color:#f2f2f2;">
-    <tr>
-      <th>Category</th>
-      <th>Skills & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Web Design & Development</b></td>
-      <td>HTML5, CSS3, JavaScript, PHP, WordPress (Plugins & WooCommerce), CPanel, Bootstrap, jQuery, Figma, Adobe Creative Suite</td>
-    </tr>
-    <tr>
-      <td><b>Software Development</b></td>
-      <td>Java, C#, Visual Basic, Implementation of Enterprise Systems, Business Intelligence (BI) & Analysis</td>
-    </tr>
-    <tr>
-      <td><b>Cloud Computing</b></td>
-      <td>AWS (Amazon Web Services), Microsoft Azure, AWS S3 Deployment, Cloud Integration & Hosting</td>
-    </tr>
-    <tr>
-      <td><b>Cybersecurity</b></td>
-      <td>Penetration Testing, CompTIA Security+, Basic Network Security Principles</td>
-    </tr>
-    <tr>
-      <td><b>Digital Marketing & SEO</b></td>
-      <td>SEO Optimization, Google Business Profile Setup, Digital Marketing Strategy, Analytics</td>
-    </tr>
-  </tbody>
-</table>
+### **2. Bank Safety Check Application — Financial Validation System**  
+**Tech:** Java, Collections Framework  
+Simulates a banking system that evaluates safety using asset thresholds and rules-based logic.  
+🔗 **Repo:** https://github.com/MbuleloMtshu/BankSafetyCheckJava
 
-<h2>📺 Creative & Finance Content</h2>
-<p>
-Outside of coding, I run a <b>personal finance YouTube channel</b> where I simplify banking, savings, and money management for young South Africans.
-This passion project enhances my communication, client engagement, and digital marketing skills — reflecting consistency, project execution, and strong project management.
-</p>
-<ul>
-  <li>
-    <a href="https://youtu.be/dbb2EW5E2lo" target="_blank">
-      STOP Missing Out on Discovery Bank & its Perks – What You Must Know!
-    </a>
-  </li>
-  <li>
-    <a href="https://youtu.be/jcrqRKezmZ8" target="_blank">
-      Public vs. Private University: Which Is Better In South Africa?
-    </a>
-  </li>
-</ul>
+---
 
-<h2> 🤳 Connect with me:</h2>
+### **3. “World Link Consulting” Client Website — Business Web Design Demo**  
+**Tech:** HTML, CSS, JS, PHP, CPanel  
+A responsive website with UI/UX design and backend integration.  
+🔗 **Live Demo:** https://hymalayafreight.co.za/
 
-[<img align="left" alt="MbuleloMtshu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MbuleloMtshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MbuleloMtshu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MbuleloMtshu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/MbuleloMtshu
-[youtube]:https://www.youtube.com/channel/UCZrZN7aPZrMCj-W5ZZgqO8Q
-[instagram]: https://www.instagram.com/mbulelo_mtshu/
-[linkedin]: https://www.linkedin.com/in/mbulelo-mtshutshisi-6024451a8
+### **4. Local Ecommerce Platform — Web Commerce System**  
+**Tech:** HTML, CSS, JS, Bootstrap  
+A custom eCommerce demo including catalog pages and admin functionality.  
+🔗 **Live Demo:** https://gwglassinfo.s3.eu-north-1.amazonaws.com/MainPage.html
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚙️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Backend & Software Engineering**
+- Java, OOP, Data Structures & Algorithms  
+- Java EE (Servlets/JSP)  
+- REST APIs  
+- C#, Visual Basic  
+- SQL & database concepts  
+- Enterprise systems implementation
+
+### **Web Development**
+- HTML, CSS, JavaScript, PHP  
+- WordPress (WooCommerce, plugins)  
+- Bootstrap, jQuery  
+- CPanel hosting  
+- Figma & UI Design
+
+### **Cloud Computing**
+- AWS S3 static hosting  
+- Azure fundamentals  
+- Cloud integration & deployment
+
+### **Cybersecurity**
+- Penetration Testing basics  
+- CompTIA Security+ fundamentals  
+- Network scanning, mapping & threat analysis
+
+---
+
+## 📺 Creative & Finance Content
+Outside of coding, I run a **personal finance YouTube channel** where I explain banking, budgeting, and young-professional money management.  
+This strengthens my communication, project execution, and analytical skills.
+
+🎥 **Latest videos:**  
+- https://youtu.be/dbb2EW5E2lo  
+- https://youtu.be/jcrqRKezmZ8  
+
+---
+
+## 🤳 Connect With Me  
+- **LinkedIn:** https://www.linkedin.com/in/mbulelo-mtshutshisi-6024451a8  
+- **YouTube:** https://www.youtube.com/channel/UCZrZN7aPZrMCj-W5ZZgqO8Q  
+- **Twitter:** https://twitter.com/MbuleloMtshu  
+- **Instagram:** https://www.instagram.com/mbulelo_mtshu/
+
