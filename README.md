@@ -12,7 +12,7 @@ I enjoy solving real technical problems through clean design, strong fundamental
 ### **1. Java Enterprise Chat Application — Messaging System Prototype**  
 **Tech:** Java, OOP  
 A Java-based enterprise communication system demonstrating backend design, message handling, and modular architecture.  
-🔗 **Repo:** https://github.com/MbuleloMtshu/EnterpriseChatApplication
+🔗 **Repo:** https://github.com/MbuleloMtshu/java-enterprise-chatapp
 
 ---
 
