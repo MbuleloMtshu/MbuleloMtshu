@@ -18,7 +18,7 @@ A custom eCommerce demo including catalog pages and admin functionality.
 ### **2. Smart Budget Console App (Java) — Smart Budgeting Tool**  
 **Tech:** Java, OOP  
 This is a beginner-friendly financial management system built in pure Java to demonstrate strong fundamentals in backend logic, object-oriented programming, and clean system design. Typical use in the banking space.  
-🔗 **Repo:** README.md
+🔗 **Repo:** https://github.com/MbuleloMtshu/SmartBudgetConsoleApp
 
 ---
 ### **3. Java Enterprise Chat Application — Messaging System Prototype**  
