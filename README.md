@@ -70,10 +70,13 @@ A custom eCommerce demo including catalog pages and admin functionality.
 Outside of coding, I run a **personal finance YouTube channel** where I explain banking, budgeting, and young-professional money management.  
 This strengthens my communication, project execution, and analytical skills.
 
-🎥 **Latest videos:**  
-- https://youtu.be/dbb2EW5E2lo  
-- https://youtu.be/jcrqRKezmZ8  
+🎥 **Latest videos:**
 
+- **STOP Missing Out on Discovery Bank & its Perks – What You Must Know!**  
+  https://youtu.be/dbb2EW5E2lo
+
+- **Public vs. Private University: Which Is Better In South Africa?**  
+  https://youtu.be/jcrqRKezmZ8
 ---
 
 ## 🤳 Connect With Me  
