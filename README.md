@@ -24,7 +24,6 @@ Simulates a banking system that evaluates safety using asset thresholds and rule
 ### **3. “World Link Consulting” Client Website — Business Web Design Demo**  
 **Tech:** HTML, CSS, JS, PHP, CPanel  
 A responsive website with UI/UX design and backend integration.  
-🔗 **Live Demo:** https://hymalayafreight.co.za/
 
 ---
 
