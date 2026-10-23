@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Mbulelo  
 ### Software Engineer | Java Backend | Cloud Services
 
-I build backend systems and full-stack applications using Java, Spring principles, REST APIs, and cloud deployment.  
-I enjoy solving real technical problems through clean design, strong fundamentals, and continuous learning.
+Software Developer with a BSc in IT, focused on Java, Python, and AWS. Skilled in REST APIs, JSON, React, machine learning, and full-stack development.
 
 
 ---
