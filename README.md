@@ -28,7 +28,7 @@ A responsive website with UI/UX design and backend integration.
 ### **4. Local Ecommerce Platform — Web Commerce System**  
 **Tech:** HTML, CSS, JS, Bootstrap  
 A custom eCommerce demo including catalog pages and admin functionality, this involved
-the use of AWS (Aurora DB, S3 buckets for page hosting & EC2 for API management).
+the use of AWS (Aurora DB, S3 buckets for page hosting & EC2 for API management)& Virtual Machines.
 
 ---
 
