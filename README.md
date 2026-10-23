@@ -25,6 +25,10 @@ Simulates a banking system that evaluates safety using asset thresholds and rule
 **Tech:** HTML, CSS, JS, PHP, CPanel  
 A responsive website with UI/UX design and backend integration.  
 
+### **4. Local Ecommerce Platform — Web Commerce System**  
+**Tech:** HTML, CSS, JS, Bootstrap  
+A custom eCommerce demo including catalog pages and admin functionality.  
+
 ---
 
 ## ⚙️ Tech Stack
